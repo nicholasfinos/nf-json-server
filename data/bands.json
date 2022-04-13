@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Nirvana",
+    "active": "1987-1994",
+    "members": "Kurt Cobain, Krist Novoselic, Dave Grohl",
+    "genre": "Grunge",
+    "id": 1
+  },
+  {
+    "id": 2,
+    "name": "Alice in Chains",
+    "active": "1987-2002, 2005-present",
+    "members": "Jerry Cantrell, Sean Kinney, Mike Inez, William DuVall",
+    "genre": "Grunge"
+  },
+  {
+    "id": 3,
+    "name": "AC/DC",
+    "active": "1973-present",
+    "members": "Angus Young, Brian Johnson, Malcolm Young, Phil Rudd, Cliff Williams",
+    "genre": "Hard Rock"
+  },
+  {
+    "name": "Ozzy Osbourne",
+    "active": "1968-",
+    "members": "himself",
+    "genre": "Heavy Metal",
+    "id": 4
+  }
+]
